@@ -12,6 +12,6 @@
     "@astrojs/preact": "^3.3.0",
     "@astrojs/sitemap": "^3.1.5",
     "@netlify/netlify-marketing-tokens": "^1.1.0",
-    "astro": "^4.10.2"
+    "astro": "^4.10.3"
   }
 }
