@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@astrojs/preact": "^3.3.0",
-    "@astrojs/sitemap": "^3.1.6",
+    "@astrojs/sitemap": "^3.2.1",
     "@netlify/netlify-marketing-tokens": "^1.1.0",
     "astro": "^4.11.5"
   }
